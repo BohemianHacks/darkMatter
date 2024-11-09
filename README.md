@@ -9,9 +9,3 @@ Additional Considerations
  * Visualization Tools: Explore different visualization tools like Matplotlib, Plotly, and Mayavi to find the best way to represent the data.
  * Interactive Visualizations: Consider using interactive visualization techniques to allow users to explore the spacetime and its properties.
 By combining these approaches and leveraging Python's powerful visualization capabilities, you can gain valuable insights into the geometry of spacetime described by the given metric tensor.
-
-1. The metric tensor formula:
-   ds^2 = A(r)c^2dr^2 - r^2 (dθ^2 + sin^2θdφ^2 + sin^2θsin^2φdχ^2)
-
-2. The definition of A(r):
-   A(r) = 1 / (c^2 kr^2 - 1)

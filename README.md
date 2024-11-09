@@ -1,6 +1,6 @@
 Using Python for Visualization:
  * Define the metric tensor: Implement the metric tensor as a function in Python, taking the coordinates r, θ, φ, and χ as input.
- * Calculate the components: Calculate the individual components of the metric tensor, such as g_{rr}, g_{θθ}, etc.
+ * Calculate the components: Calculate the individual components of the metric tensor.
  * Plot A(r): Create a 2D plot of A(r) versus r.
  * Visualize geodesics: Use numerical methods to calculate geodesics in the given spacetime and plot them.
  * Consider embedding diagrams: If appropriate, use techniques like embedding diagrams to visualize 2D slices of the 4D spacetime.

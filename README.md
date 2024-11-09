@@ -1,5 +1,4 @@
-Using Python for Visualization
-Python, with libraries like Matplotlib and Plotly, is a powerful tool for creating visualizations. To visualize the metric tensor and its components, you can follow these steps:
+Using Python for Visualization:
  * Define the metric tensor: Implement the metric tensor as a function in Python, taking the coordinates r, θ, φ, and χ as input.
  * Calculate the components: Calculate the individual components of the metric tensor, such as g_{rr}, g_{θθ}, etc.
  * Plot A(r): Create a 2D plot of A(r) versus r.
